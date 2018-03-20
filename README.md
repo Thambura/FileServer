@@ -15,4 +15,4 @@ To set up a new radio, do the following:
 8. Add your radio name and your radio's file server location from here
 9. After adding your radio, your songs' MP3 metadata information will get synced in our database in ten minutes or so. Currently, we don't support modifying the synced information; so, please update the MP3 metadata using any MP3 tag editors.
 
-If you want to try our file servers for the next 3 months for completely free of charge OR if you run into any problems in the fileserver setup, please contact us by sending an email to contact@thambura.com after adding your radio information.
+If you want to try our file servers for the next 3 months for completely free of charge OR if you run into any problems in the fileserver setup, please contact us by sending an email to **contact@thambura.com** after adding your radio information.
