@@ -1,7 +1,9 @@
 To set up a new radio, do the following:
 ----------------------------------------
 1. Download the file server package zip file
-2. As the package is based on .NET framework 4.6.1, you need to set up IIS in your windows platform and host it. If you have a hosting plan with any of the cloud providers, you can host the downloaded package. Or, if you manage your own servers, you can set up IIS by following the instructions mentioned here: [Windows Vista and 7](https://docs.microsoft.com/en-us/iis/install/installing-iis-7/installing-iis-on-windows-vista-and-windows-7) [Windows 8 and 10](https://www.howtogeek.com/112455/how-to-install-iis-8-on-windows-8/) 
+2. As the package is based on .NET framework 4.6.1, you need to set up IIS in your windows platform and host it. If you have a hosting plan with any of the cloud providers, you can host the downloaded package. Or, if you manage your own servers, you can set up IIS by following the instructions mentioned here:
+[Windows Vista and 7](https://docs.microsoft.com/en-us/iis/install/installing-iis-7/installing-iis-on-windows-vista-and-windows-7)
+[Windows 8 and 10](https://www.howtogeek.com/112455/how-to-install-iis-8-on-windows-8/) 
 **Note**: Pretty soon file server based on .NET Core and NodeJS will be released, and thus you will be able to host it in Linux and Mac too.
 3. After hosting the package, grant write permission to the App_Data folder for the app pool account.
 4. Copy your songs collection into the Songs folder inside App_Data.
