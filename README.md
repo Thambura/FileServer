@@ -12,7 +12,9 @@ To set up a new radio, do the following:
 **Note**: Pretty soon local hosting will be supported too.
 7. Navigate to [https://www.thambura.com](https://www.thambura.com) and log in using Facebook or Google
 **Note**: Pretty soon other social network accounts and custom registration will be supported.
-8. Add your radio name and your radio's file server location from here
-9. After adding your radio, your songs' MP3 metadata information will get synced in our database in ten minutes or so. Currently, we don't support modifying the synced information; so, please update the MP3 metadata using any MP3 tag editors.
+8. Add your station name and your station's file server location from here
+9. After adding your station, your songs' MP3 metadata information will get synced in our database in ten minutes or so. Currently, we don't support modifying the synced information; so, please update the MP3 metadata using any MP3 tag editors.
 
-If you want to try our file servers for the next 3 months for completely free of charge OR if you run into any problems in the fileserver setup, please contact us by sending an email to **contact@thambura.com** after adding your radio information.
+**OR**
+
+If you want us to set up your file server and try it for the next 3 months for completely free of charge, please contact us by sending an email to **contact@thambura.com** after adding your station information.
