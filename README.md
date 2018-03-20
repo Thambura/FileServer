@@ -8,7 +8,7 @@ To set up a new radio, do the following:
 3. After hosting the package, grant write permission to the App_Data folder for the app pool account.
 4. Copy your songs collection into the Songs folder inside App_Data.
 5. Try to access the website from your browser and if everything is set up properly, you will see this message - "Thambura FileServer"
-6. Open the port the website is running on in your Firewall and in your router, so that it's accessible from the internet. 
+6. Open the port the website is running on in your Firewall and in your router, so that it's accessible from the internet.
 **Note**: Pretty soon local hosting will be supported too.
 7. Navigate to [https://www.thambura.com](https://www.thambura.com) and log in using Facebook or Google
 **Note**: Pretty soon other social network accounts and custom registration will be supported.
